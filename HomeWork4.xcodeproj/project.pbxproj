@@ -16,6 +16,7 @@
 		2E5E57F929FDE2AB00F237DC /* HomeWork4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E57F829FDE2AB00F237DC /* HomeWork4Tests.swift */; };
 		2E5E580329FDE2AB00F237DC /* HomeWork4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E580229FDE2AB00F237DC /* HomeWork4UITests.swift */; };
 		2E5E580529FDE2AB00F237DC /* HomeWork4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E580429FDE2AB00F237DC /* HomeWork4UITestsLaunchTests.swift */; };
+		2E5E581229FDE2FB00F237DC /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5E581129FDE2FB00F237DC /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2E5E57FE29FDE2AB00F237DC /* HomeWork4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HomeWork4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E5E580229FDE2AB00F237DC /* HomeWork4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork4UITests.swift; sourceTree = "<group>"; };
 		2E5E580429FDE2AB00F237DC /* HomeWork4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork4UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2E5E581129FDE2FB00F237DC /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				2E5E57E129FDE2AA00F237DC /* AppDelegate.swift */,
+				2E5E581129FDE2FB00F237DC /* Game.swift */,
 				2E5E57E329FDE2AA00F237DC /* SceneDelegate.swift */,
 				2E5E57E529FDE2AA00F237DC /* ViewController.swift */,
 				2E5E57E729FDE2AA00F237DC /* Main.storyboard */,
@@ -261,6 +264,7 @@
 				2E5E57E629FDE2AA00F237DC /* ViewController.swift in Sources */,
 				2E5E57E229FDE2AA00F237DC /* AppDelegate.swift in Sources */,
 				2E5E57E429FDE2AA00F237DC /* SceneDelegate.swift in Sources */,
+				2E5E581229FDE2FB00F237DC /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
